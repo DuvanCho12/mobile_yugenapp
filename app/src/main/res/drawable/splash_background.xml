@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list android:opacity="opaque"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@color/SPLASH"/>
+
+    <item
+        android:height="40dp"
+        android:width="40dp"
+        android:top="70dp"
+        android:left="15dp">
+        <bitmap
+            android:src="@drawable/boladragon"/>
+    </item>
+    <item
+        android:height="30dp"
+        android:width="30dp"
+        android:top="250dp"
+        android:left="10dp">
+        <bitmap
+            android:src="@drawable/boladragon3"/>
+    </item>
+    <item
+        android:height="40dp"
+        android:width="40dp"
+        android:top="320dp"
+        android:left="15dp">
+        <bitmap
+            android:src="@drawable/boladragon2"/>
+    </item>
+    <item
+        android:height="190dp"
+        android:width="130dp"
+        android:top="30dp"
+        android:left="0dp">
+        <bitmap
+            android:src="@drawable/yumeko"/>
+    </item>
+    <item
+        android:height="220dp"
+        android:width="180dp"
+        android:top="130dp">
+        <bitmap
+            android:src="@drawable/hisoka"/>
+    </item>
+    <item
+        android:height="240dp"
+        android:width="240dp"
+        android:top="20dp"
+        android:gravity="center_horizontal"
+        >
+        <bitmap
+            android:src="@drawable/itachi"/>
+    </item>
+    <item
+        android:height="100dp"
+        android:width="110dp"
+        android:top="185dp"
+        android:left="200dp"
+        >
+        <bitmap
+            android:src="@drawable/shinji"/>
+    </item>
+    <item
+        android:height="120dp"
+        android:width="120dp"
+        android:top="180dp"
+        android:left="70dp"
+        >
+        <bitmap
+            android:src="@drawable/gon"/>
+
+    </item>
+    <item
+        android:height="245dp"
+        android:width="155dp"
+        android:top="40dp"
+        android:left="230dp"
+        >
+        <bitmap
+            android:src="@drawable/ryuk"/>
+
+    </item>
+    <item
+        android:height="120dp"
+        android:width="130dp"
+        android:top="30dp"
+        android:left="250dp"
+        >
+    <bitmap
+        android:src="@drawable/blackclover"/>
+    </item>
+    <item
+        android:height="120dp"
+        android:width="130dp"
+        android:top="280dp"
+        android:left="90dp">
+
+        <bitmap
+            android:src="@drawable/kanekichibi"/>
+    </item>
+    <item
+        android:height="100dp"
+        android:width="150dp"
+        android:top="550dp"
+        android:left="110dp">
+
+        <bitmap
+            android:src="@drawable/yourname"/>
+    </item>
+    <item
+        android:height="100dp"
+        android:width="110dp"
+        android:top="640dp"
+        android:left="110dp">
+
+        <bitmap
+            android:src="@drawable/saitama"/>
+    </item>
+    <item
+        android:height="500dp"
+        android:width="140dp"
+        android:top="280dp"
+        android:right="270dp">
+
+        <bitmap
+            android:src="@drawable/guerrerosz"/>
+    </item>
+
+    <item
+        android:height="120dp"
+        android:width="110dp"
+        android:top="270dp"
+        android:left="230dp">
+        <bitmap
+            android:src="@drawable/dekuchibi"/>
+
+    </item>
+
+    <item
+        android:height="140dp"
+        android:width="150dp"
+        android:top="250dp"
+        android:left="140dp"
+        >
+        <bitmap
+            android:src="@drawable/levichibi"/>
+
+    </item>
+
+    <item
+        android:height="150dp"
+        android:width="120dp"
+        android:top="260dp"
+        android:left="290dp"
+        >
+        <bitmap
+            android:src="@drawable/eledeathnote"/>
+
+    </item>
+    <item
+        android:height="115dp"
+        android:width="95dp"
+        android:top="390dp"
+        android:left="285dp"
+        >
+        <bitmap
+            android:src="@drawable/narutochibi"/>
+    </item>
+    <item
+        android:height="150dp"
+        android:width="270dp"
+        android:top="350dp"
+        android:gravity="center_horizontal"
+        >
+        <bitmap
+            android:src="@drawable/yugentitulodos" />
+
+        <transition
+
+            />
+    </item>
+    <item
+        android:height="320dp"
+        android:width="340dp"
+        android:top="360dp"
+        android:left="70dp">
+        <bitmap
+            android:src="@drawable/yugenjapones"
+            />
+    </item>
+    <item
+        android:height="115dp"
+        android:width="90dp"
+        android:top="600dp"
+        android:left="290dp">
+
+        <bitmap
+            android:src="@drawable/yuno"/>
+    </item>
+    <item
+        android:height="110dp"
+        android:width="110dp"
+        android:top="620dp"
+        android:left="200dp">
+
+        <bitmap
+            android:src="@drawable/sailormoon"/>
+    </item>
+    <item
+        android:height="180dp"
+        android:width="240dp"
+        android:top="680dp"
+        android:left="160dp"
+        >
+        <bitmap
+            android:src="@drawable/akatsukichibi"/>
+    </item>
+
+    <item
+        android:height="130dp"
+        android:width="100dp"
+        android:top="480dp"
+        android:left="240dp"
+        >
+        <bitmap
+            android:src="@drawable/alphonse"/>
+    </item>
+    <item
+        android:height="110dp"
+        android:width="80dp"
+        android:top="500dp"
+        android:left="310dp"
+        >
+        <bitmap
+            android:src="@drawable/edward"/>
+    </item>
+
+    <item
+        android:height="110dp"
+        android:width="80dp"
+        android:top="745dp"
+        android:left="100dp">
+
+        <bitmap
+            android:src="@drawable/pokemon"/>
+    </item>
+    <item
+        android:height="130dp"
+        android:width="120dp"
+        android:top="730dp">
+
+        <bitmap
+            android:src="@drawable/zero"/>
+    </item>
+
+</layer-list>
